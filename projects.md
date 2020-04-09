@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Projects
+description: about the things that I do
 ---
 
 ## Welcome to another page
