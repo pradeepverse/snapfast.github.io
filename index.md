@@ -4,7 +4,8 @@ layout: default
 
 Welcome to my portfolio website. It is made in github pages theme. I maintain this website solely from github.
 
-[Link to projects page](projects.md).
+![Link to projects page](projects.md) ![Link to resume page](resume.md)
+
 
 * * *
 
