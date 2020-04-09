@@ -2,5 +2,5 @@
 layout: default
 ---
 
-<embed src="https://sumanbogati.github.io/rahul_cv.pdf" type="application/pdf" />
+<object src="rahul_cv.pdf" type="application/pdf" width="100%" height="80%"/>
 
