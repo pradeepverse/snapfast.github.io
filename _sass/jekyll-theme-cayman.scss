@@ -359,20 +359,20 @@ a {
 }
 
 .site-footer {
-  padding-top: 2rem;
-  margin-top: 2rem;
+  padding-top: 1rem;
+  margin-top: 1rem;
   border-top: solid 1px $hr-border-color;
 
   @include large {
-    font-size: 1rem;
+    font-size: 0.8rem;
   }
 
   @include medium {
-    font-size: 1rem;
+    font-size: 0.8rem;
   }
 
   @include small {
-    font-size: 0.9rem;
+    font-size: 0.7rem;
   }
 }
 
