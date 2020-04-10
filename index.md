@@ -2,17 +2,49 @@
 layout: default
 ---
 
-Welcome to my portfolio website. It is made in github pages theme. I maintain this website solely from github.
+Welcome
 
-[Link to projects page](projects.md).      [Link to resume page](resume.md).
+My name is Rahul Bali.
 
 * * *
 
-### Ways I go beyond
+![face-detect](img/facedetect-equality-and-diversity.jpg)
+
+* * *
+
+
 
 ```Python
 
-I just love sleeping.
-I love talking about human rights, writing things on paper(real one).
+# A simple generator function
+def my_gen():
+    n = 1
+    print('This is printed first')
+    # Generator function contains yield statements
+    yield n
+
+    n += 1
+    print('This is printed second')
+    yield n
+
+    n += 1
+    print('This is printed at last')
+    yield n
+
+# Using for loop
+for item in my_gen():
+    print(item) 
 
 ```
+
+```
+This is printed first
+1
+This is printed second
+2
+This is printed at last
+3
+```
+
+
+
