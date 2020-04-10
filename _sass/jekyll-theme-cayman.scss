@@ -34,24 +34,6 @@ body {
   color: $body-text-color;
 }
 
-#skip-to-content {
-  height: 1px;
-  width: 1px;
-  position: absolute;
-  overflow: hidden;
-  top: -10px;
-
-  &:focus {
-    position: fixed;
-    top: 10px;
-    left: 10px;
-    height: auto;
-    width: auto;
-    background: invert($body-link-color);
-    outline: thick solid invert($body-link-color);
-  }
-}
-
 a {
   color: $body-link-color;
   text-decoration: none;
@@ -101,44 +83,6 @@ a {
     + .btn {
       margin-top: 1rem;
       margin-left: 0;
-    }
-  }
-}
-
-@media (max-width: 700px) {
-  .mobileMenu {
-    transform: translateX(-100%);
-    position: fixed;
-    top: 0;
-    bottom: 0;
-    margin: auto;
-    left: 0;
-    transition: all ease 0.25s;
-    &.onRight {
-      left: auto;
-      right: 0;
-      transform: translateX(100%);
-    }
-    &.open {
-      transform: translateX(0%);
-    }
-
-    .navbar-nav {
-      overflow-y: auto;
-    }
-  }
-  .overlay {
-    position: fixed;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    margin: auto;
-    background-color: rgba(0, 0, 0, 0.5);
-    display: none;
-    &.open {
-      display: block;
-      z-index: 1029;
     }
   }
 }
