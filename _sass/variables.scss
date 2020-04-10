@@ -4,8 +4,9 @@ $medium-breakpoint: 42em !default;
 
 // Headers
 $header-heading-color: #fff !default;
-$header-bg-color: #144 !default;
-$header-bg-color-secondary: #799 !default;
+$header-bg-color: rgba(180, 58, 58, 1) !default;
+$header-bg-color-secondary: rgba(143, 9, 129, 1) !default;
+$header-bg-color-tertiary: rgba(69, 94, 252, 1) !default;
 
 // Text
 $section-headings-color: #289 !default;
