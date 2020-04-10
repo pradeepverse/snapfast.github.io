@@ -14,7 +14,7 @@ My name is Rahul Bali.
 
 
 
-```Python
+```python
 
 # A simple generator function
 def my_gen():
