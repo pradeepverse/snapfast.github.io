@@ -4,7 +4,12 @@ title: Resume
 description: Handmade with ❤️
 ---
 
-<embed src="rahul_cv.pdf" type="application/pdf" width="100%" height="500px"/>
+<object data="rahul_cv.pdf" type="application/pdf" width="100%" height="600px">
+  <p>
+    Your browser does not support PDF plugin.
+    <a href="rahul_cv.pdf">Download</a>
+  </p>
+</object>
 
 [back](./)
 
