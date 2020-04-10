@@ -8,7 +8,6 @@ My name is Rahul Bali.
 
 * * *
 
-![face-detect](img/facedetect-equality-and-diversity.jpg)
 
 * * *
 
