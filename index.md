@@ -12,10 +12,7 @@ My name is Rahul Bali.
 
 * * *
 
-
-
 ```python
-
 # A simple generator function
 def my_gen():
     n = 1
@@ -34,9 +31,7 @@ def my_gen():
 # Using for loop
 for item in my_gen():
     print(item) 
-
 ```
-
 ```
 This is printed first
 1
@@ -45,6 +40,3 @@ This is printed second
 This is printed at last
 3
 ```
-
-
-
