@@ -18,7 +18,8 @@ description: about the things that I do
 
 ### Python based Face Detection app deployed on Heroku
 
-![face-detect](img/1.jpg) ![face-detect-2](img/2.jpg)
+![face-detect](img/1.jpg)
+![face-detect-2](img/2.jpg)  
 [Live Project Link](https://opencv-act.herokuapp.com)  
 [Open Source Code](https://github.com/rahbal/opencv-act)
 
