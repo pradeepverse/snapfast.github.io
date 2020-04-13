@@ -6,20 +6,20 @@ description: about the things that I do
 
 ### Nodejs based app with Koa server, Mongodb
 
-[Live Project Link](https://vuemonexpress.herokuapp.com/)\
+[Live Project Link](https://vuemonexpress.herokuapp.com/)  
 [Open Source Code](https://github.com/rahbal/koa-web-app)
 
 
 ### TODO app built on Expressjs + Vuejs + MongoDB
 
-[Live Project Link](https://vuemonexpress.herokuapp.com/)\
+[Live Project Link](https://vuemonexpress.herokuapp.com/)  
 [Open Source Code](https://github.com/rahbal/VueMonExpress)
 
 
 ### Python based Face Detection app deployed on Heroku
 
-![face-detect](img/facedetect-equality-and-diversity.jpg)
-[Live Project Link](https://opencv-act.herokuapp.com)\
+![face-detect](img/1.jpg) ![face-detect-2](img/2.jpg)
+[Live Project Link](https://opencv-act.herokuapp.com)  
 [Open Source Code](https://github.com/rahbal/opencv-act)
 
 
