@@ -4,7 +4,8 @@ title: Projects
 description: about the things that I do
 ---
 
-> ## Nodejs based app with Koa server, Mongodb
+## Nodejs based app with Koa server, Mongodb
+
 [Live Project Link](https://vuemonexpress.herokuapp.com/)</br>
 [Open Source Code](https://github.com/rahbal/koa-web-app)
 
