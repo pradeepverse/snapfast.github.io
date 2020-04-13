@@ -1,3 +1,3 @@
-### not so common portfolio of Rahul Bali (Ambala, Haryana)
+### Portfolio of Rahul Bali
 
 
