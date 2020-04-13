@@ -26,7 +26,7 @@ description: about the things that I do
 
 ### Solutions to the problems attempted on Competitive Code Sites
 
-[Open Source Code](https://github.com/rahbal/programming-situations)\
+[Open Source Code](https://github.com/rahbal/programming-situations)  
 
 
 ***
