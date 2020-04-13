@@ -2,13 +2,10 @@
 layout: default
 ---
 
-Welcome
-
-My name is Rahul Bali.
+Welcome, My name is Rahul Bali.
 
 * * *
-
-
+Nodejs - Python - Mongodb - API Design - System Design - Cloud Architecture
 * * *
 
 ```python
