@@ -4,11 +4,16 @@ title: Projects
 description: about the things that I do
 ---
 
-## Nodejs based REST API with Koa server, Mongodb
+## Nodejs based TODO app with Koa server, Mongodb
 
-[Live Project Link](https://opencv-act.herokuapp.com)
+[Live Project Link]()
 
-[Open Source Code]()
+[Open Source Code](https://github.com/rahbal/koa-web-app)
+
+
+## Express js app with Vuejs and MongoDB
+
+[Open Source Code](https://github.com/rahbal/VueMonExpress)
 
 
 ## Python based Face Detection app deployed on Heroku
@@ -16,7 +21,7 @@ description: about the things that I do
 ![face-detect](img/facedetect-equality-and-diversity.jpg)
 [Live Project Link](https://opencv-act.herokuapp.com)
 
-[Open Source Code]()
+[Open Source Code](https://github.com/rahbal/opencv-act)
 
 
 ## Solutions to the problems attempted on Competitive Code Sites
