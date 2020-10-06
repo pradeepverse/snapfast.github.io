@@ -28,6 +28,13 @@
 body {
   padding: 0;
   margin: 0;
+  background: linear-gradient(16deg, rgba(9,9,121,0.5) 0%, rgba(38,162,187,0.5) 50%, rgba(9,9,121,0.5) 95%), url("/img/azin-javadzadeh-Ow4ijRO4ZJw-unsplash.jpg") no-repeat center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  // background: rgba(9,9,121,0.3);
+  // background: linear-gradient(16deg, rgba(191,250,255,1) 0%, rgba(38,162,187,1) 50%, rgba(9,9,121,1) 95%); 
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
@@ -90,8 +97,6 @@ a {
 .page-header {
   color: $header-heading-color;
   text-align: center;
-  background-color: $header-bg-color;
-  background-image: linear-gradient(90deg, $header-bg-color 0%, $header-bg-color-secondary 50%, $header-bg-color-tertiary 100%);
   a {
     color: white;
     text-decoration: none;

@@ -1,0 +1,45 @@
+I""	<p>Welcome, My name is Rahul Bali.</p>
+
+<div style="width: 100%">
+    
+
+| DevOps &amp; Infra | Software Engineer{width=33%} | Web Design |
+|  :---:      |    :----:   |     ----: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
+</div>
+
+<hr />
+<p>Nodejs - Python - Mongodb - API Design - System Design - Cloud Architecture</p>
+<hr />
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># A simple generator function
+</span><span class="k">def</span> <span class="nf">my_gen</span><span class="p">():</span>
+    <span class="n">n</span> <span class="o">=</span> <span class="mi">1</span>
+    <span class="k">print</span><span class="p">(</span><span class="s">'This is printed first'</span><span class="p">)</span>
+    <span class="c1"># Generator function contains yield statements
+</span>    <span class="k">yield</span> <span class="n">n</span>
+
+    <span class="n">n</span> <span class="o">+=</span> <span class="mi">1</span>
+    <span class="k">print</span><span class="p">(</span><span class="s">'This is printed second'</span><span class="p">)</span>
+    <span class="k">yield</span> <span class="n">n</span>
+
+    <span class="n">n</span> <span class="o">+=</span> <span class="mi">1</span>
+    <span class="k">print</span><span class="p">(</span><span class="s">'This is printed at last'</span><span class="p">)</span>
+    <span class="k">yield</span> <span class="n">n</span>
+
+<span class="c1"># Using for loop
+</span><span class="k">for</span> <span class="n">item</span> <span class="ow">in</span> <span class="n">my_gen</span><span class="p">():</span>
+    <span class="k">print</span><span class="p">(</span><span class="n">item</span><span class="p">)</span> 
+</code></pre></div></div>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>This is printed first
+1
+This is printed second
+2
+This is printed at last
+3
+</code></pre></div></div>
+
+<p><span>South annapurna, Photo by <a href="https://unsplash.com/@azinjx?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Azin Javadzadeh</a> on <a href="https://unsplash.com/images/nature/mountain?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span></p>
+:ET

@@ -18,16 +18,16 @@
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="stylesheet" href="{{ '/assets/css/hover.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
     
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      <div style="display: flex">
-        <a class="link-one btn btn-outline-light btn-sm" href="./projects.html" role="button">Projects</a>
-        <a class="link-one btn btn-outline-light btn-sm" href="./resume.html" role="button">Resume</a>
+      <div style="display: inline-block;">
+        <a class="link-one btn-sm" href="./projects.html" role="button">Projects</a>
+        <a class="link-one btn-outline-light btn-sm" href="./resume.html" role="button">Resume</a>
+        <!-- <a class="link-one btn btn-outline-light btn-sm" href="./resume.html" role="button">Resume</a> -->
       </div>
       {% if site.project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
