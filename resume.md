@@ -4,7 +4,7 @@ title: Resume
 description: Handmade with ❤️
 ---
 
-<object data="rahul_cv.pdf" type="application/pdf" width="100%" height="600px">
+<object data="cv_rahul_bali.pdf" type="application/pdf" width="100%" height="600px">
   <p>
     Your browser does not support PDF plugin.
     <a href="cv_rahul_bali.pdf" download>Download</a>
