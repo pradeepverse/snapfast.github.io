@@ -1,8 +1,8 @@
-I"0<p>Welcome, My name is Rahul Bali.</p>
+I"ð<h2 id="build-a-web-application-using-django-web-framework">Build a Web Application using Django Web Framework.</h2>
+<h2 id="create-an-ai-application">Create an AI application</h2>
+<h2 id="create-python-rest-api">Create python REST-API</h2>
 
-<hr />
-<p>Nodejs - Python - Mongodb - API Design - System Design - Cloud Architecture</p>
-<hr />
+<p><a href="https://twitter.com/_rahulbali" target="_blank">Message me here to get a quote</a></p>
 
 <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># A simple generator function
 </span><span class="k">def</span> <span class="nf">my_gen</span><span class="p">():</span>
@@ -31,5 +31,6 @@ This is printed at last
 3
 </code></pre></div></div>
 
-<p><span>South annapurna, Photo by <a href="https://unsplash.com/@azinjx?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Azin Javadzadeh</a> on <a href="https://unsplash.com/images/nature/mountain?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span></p>
+<hr />
+<p><a href="./"><strong>Homepage</strong></a></p>
 :ET

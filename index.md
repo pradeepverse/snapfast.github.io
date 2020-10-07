@@ -8,43 +8,15 @@ Welcome, My name is Rahul Bali.
 <b>DevOps & Infra</b>			<b>Software Engineer</b>		<b>Web Design</b>
 Terraform			Java 				Nodejs
 VMware				Python 				TypeScript
-
-
+AWS    				Postgres			Vuejs
+VMware vCenter			REST API	
+vRealize Automation		ORM  
+PowerShell
+Bash
 </pre>
 
-
-
 * * *
-Nodejs - Python - Mongodb - API Design - System Design - Cloud Architecture
+<center> - API Design - System Design - Cloud Architecture - </center>
 * * *
-
-```python
-# A simple generator function
-def my_gen():
-    n = 1
-    print('This is printed first')
-    # Generator function contains yield statements
-    yield n
-
-    n += 1
-    print('This is printed second')
-    yield n
-
-    n += 1
-    print('This is printed at last')
-    yield n
-
-# Using for loop
-for item in my_gen():
-    print(item) 
-```
-```
-This is printed first
-1
-This is printed second
-2
-This is printed at last
-3
-```
 
 <span>South annapurna, Photo by <a href="https://unsplash.com/@azinjx?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Azin Javadzadeh</a> on <a href="https://unsplash.com/images/nature/mountain?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
