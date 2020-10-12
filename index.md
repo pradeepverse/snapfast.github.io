@@ -4,6 +4,13 @@ layout: default
 
 Welcome, My name is Rahul Bali.
 
+<H3>
+	Open Source Projects
+</H3>
+<p>
+	<a href="/CareerPagesIndia">Career Pages India</a>
+</p>
+
 <pre>
 <b>DevOps & Infra</b>			<b>Software Engineer</b>		<b>Web Design</b>
 Terraform			Java 				Nodejs
