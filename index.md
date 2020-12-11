@@ -8,7 +8,7 @@ Welcome, My name is Rahul Bali.
 	Open Source Projects
 </H3>
 <p>
-	<a href="/CareerPagesIndia">Career Pages India</a>
+	<a href="/careerpages">Career Pages India</a>
 </p>
 
 <pre>
