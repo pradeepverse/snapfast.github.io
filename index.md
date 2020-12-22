@@ -2,14 +2,11 @@
 layout: default
 ---
 
-Welcome, My name is Rahul Bali.
+<H3>Open Document</H3>
+* * *
+<a href="/careerpages">Career Pages</a> list of companies where you can apply directly
 
-<H3>
-	Open Source Projects
-</H3>
-<p>
-	<a href="/careerpages">Career Pages India</a>
-</p>
+* * *
 
 <pre>
 <b>DevOps & Infra</b>			<b>Software Engineer</b>		<b>Web Design</b>
@@ -24,6 +21,7 @@ Bash
 
 * * *
 <center> - API Design - System Design - Cloud Architecture - </center>
-* * *
 
-<span>South annapurna, Photo by <a href="https://unsplash.com/@azinjx?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Azin Javadzadeh</a> on <a href="https://unsplash.com/images/nature/mountain?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
+
+
