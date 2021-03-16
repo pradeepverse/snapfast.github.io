@@ -11,6 +11,8 @@ description: Handmade with ❤️
   </p>
 </object>
 
+This resume is made using LateX.
+
 <!-- 
 <object data="rahul_resume_DevOps.pdf" type="application/pdf" width="100%" height="600px">
   <p>
