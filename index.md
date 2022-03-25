@@ -5,6 +5,8 @@ layout: default
 <H3>Open Document</H3>
 * * *
 <a href="/careerpages">Career Pages</a> list of companies where you can apply directly
+<button type="button" class="btn btn-light" href="/careerpages" >Job Portal Listing</button>
+
 
 * * *
 
@@ -21,7 +23,4 @@ Bash
 
 * * *
 <center> - API Design - System Design - Cloud Architecture - </center>
-
-
-
 
