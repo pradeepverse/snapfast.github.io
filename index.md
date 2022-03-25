@@ -48,33 +48,28 @@ layout: default
 * * *
 <center> - System Design - Cloud Architecture - SRE - </center>
 
-
-
-
+* * *
 
 Nodejs based app with Koa server, Mongodb
 [Source Code](https://github.com/rahbal/koa-web-app)
 
 
-TODO app built on Expressjs + Vuejs + MongoDB 
+ToDo app built on Expressjs + Vuejs + MongoDB 
 [Source Code](https://github.com/rahbal/VueMonExpress)
 
 
 Python based Face Detection app deployed on Heroku
 [Source Code](https://github.com/rahbal/opencv-act)
-![face-detect](img/1.jpg)  
- 
- 
+![face-detect](img/1.jpg)
+
 [//]: Comment
 
 Solutions to the problems attempted on Competitive Code Sites
 [Source Code](https://github.com/rahbal/programming-situations)  
 
-<small>this list might not be maintained, please visit my github profile for recent coding endeavours</small>
-
+<small>Please visit my github profile for my recent coding endeavours</small>
 
 * * *
-
 
 <object data="https://www.overleaf.com/download/project/5f54e12e29a97e00016ebded/build/17fbfdfd699-b88272d7236d2585/output/output.pdf?compileGroup=standard&popupDownload=true" type="application/pdf" width="100%" height="800px">
   <p>
