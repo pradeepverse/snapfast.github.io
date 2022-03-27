@@ -7,7 +7,7 @@ layout: default
 <a class="btn btn-primary" href="/careerpages" role="button">Job Portal Listing</a>
 
 
-<center> - Skills - </center>
+<center><h3> - Skills - </h3></center>
 * * *
 
 <div class="container">
@@ -47,8 +47,7 @@ layout: default
 </div>
 
 * * *
-<center> - Some Projects on Github - </center>
-
+<center><h3> - Some Projects on Github - </h3></center>
 * * *
 
 Nodejs based app with Koa server, Mongodb
