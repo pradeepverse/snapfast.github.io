@@ -359,6 +359,7 @@ a[target="_blank"]:after {
   border-top: solid 1px $hr-border-color;
 
   @include large {
+    max-width: 80rem;
     font-size: 0.8rem;
   }
 
