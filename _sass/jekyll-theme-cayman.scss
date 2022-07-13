@@ -357,10 +357,13 @@ a[target="_blank"]:after {
   padding-top: 1rem;
   margin-top: 1rem;
   border-top: solid 1px $hr-border-color;
+  word-wrap: break-word;
+  max-width: 80rem;
 
   @include large {
-    max-width: 80rem;
     font-size: 0.8rem;
+    padding: 2rem 6rem;
+    margin: 0 auto;
   }
 
   @include medium {
