@@ -47,6 +47,7 @@ a {
   text-decoration: none;
 
   &:hover {
+    color: $code-bg-color;
     text-decoration: underline;
   }
 }
@@ -169,7 +170,7 @@ a[target="_blank"]:after {
 
   @include large {
     max-width: 70rem;
-    padding: 2rem 6rem;
+    padding: 1rem 6rem;
     margin: 0 auto;
   }
 
@@ -324,6 +325,7 @@ a[target="_blank"]:after {
     th,
     td {
       // padding: 0.5rem 1rem;
+      padding: auto;
       white-space: nowrap;
       border-bottom: 1px solid $table-border-color;
     }
