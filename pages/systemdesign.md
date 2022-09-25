@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Career Pages
-description: Direct links to company portals to help in your job search
+title: System Design
+description: learn system design from the greats
 ---
 
 Most famous system design primer, start here everytime
